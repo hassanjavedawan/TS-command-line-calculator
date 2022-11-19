@@ -1,13 +1,10 @@
 {
-  "name": "tscalculator",
+  "name": "calculatorts",
   "version": "1.0.0",
   "description": "TS-command-line-calculator",
   "type": "module",
   "main": "bin/index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hassanjavedawan/TS-command-line-calculator"
-  },
+ 
   "scripts": {
     "start": "node ."
   },

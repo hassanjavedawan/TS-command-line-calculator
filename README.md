@@ -6,7 +6,7 @@
 ## Take the Calculator
 
 ```
-npx tscalculator
+npx calculatorts
 ```
 
 ## Packages Used
