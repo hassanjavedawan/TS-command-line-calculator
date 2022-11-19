@@ -6,7 +6,7 @@
 ## Take the Calculator
 
 ```
-npx calculatorts
+npx calculator-hj
 ```
 
 ## Packages Used
