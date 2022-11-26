@@ -1,12 +1,12 @@
 # TS-command-line-calculator
 
-<img src='https://i.imgur.com/d4kzcLc.png' width="70%" /> 
+<img src='https://i.imgur.com/E4dMcAm.png' width="70%" /> 
 
 
 ## Take the Calculator
 
 ```
-npx calculator-hj
+npx calculator-ts-hj
 ```
 
 ## Packages Used

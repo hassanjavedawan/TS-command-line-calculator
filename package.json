@@ -1,6 +1,6 @@
 {
-  "name": "calculator-hj",
-  "version": "1.0.2",
+  "name": "calculator-ts-hj",
+  "version": "1.0.0",
   "description": "TS-command-line-calculator",
   "type": "module",
   "main": "bin/index.js",
