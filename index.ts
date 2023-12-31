@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 /** @format */
-
+ 
 import chalk from "chalk";
 import inquirer from "inquirer";
 import chalkAnimation from "chalk-animation";
